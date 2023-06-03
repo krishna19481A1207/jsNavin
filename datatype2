@@ -1,0 +1,33 @@
+let firstName= "krishna" 
+let lastName = "var"
+
+let user = firstName +" "+ lastName
+console.log(user)
+
+let user1 = "Navin reddy telusko"
+console.log(user1)
+
+let user2 = 'Navin reddy "telusko" '
+console.log(user2)
+
+let user3 = "Navin reddy \"telusko\""
+console.log(user3)
+let user4 = "Navin \nreddy\tsrikrishna \v var \v_ aa\bripi "
+console.log(user4)
+
+let bool = 5>6
+console.log(bool)
+console.log(typeof bool)
+let bool1 = 5<6
+console.log(bool1)
+
+let a = null
+console.log(a)
+
+let b 
+console.log(b)
+console.log(typeof a)
+console.log(b)
+
+console.log(5/ "Navinm ")
+console.log(typeof(5/ "Navinm "))
