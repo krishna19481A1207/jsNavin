@@ -1,8 +1,8 @@
-let nums = [1,2,3,4,5,6];
+let nums = [1,2,3,4,5,6,7,8,9,10];
 
 let result = nums.filter(n => n%2 ===0)
     .map(n =>n*2)
-    .reduce((a,b) => a+b );
+    .reduce((a,b) => a-b );
 
 
 
