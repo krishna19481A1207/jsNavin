@@ -1,0 +1,2 @@
+let result = 6>7 ? "six" : "seven"
+console.log(result)
